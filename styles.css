@@ -1,0 +1,54 @@
+.question-one {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.question-two {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.question-three {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.question-four {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.question-five {
+    display: flex;
+    justify-content: flex-start;
+
+
+
+}
+
+.question-six {
+    display: flex;
+    justify-content: center;
+
+}
+
+/****************************
+BONUS QUESTIONS 
+***************************/
+
+.question-seven {
+
+
+
+}
+
+.question-eight {
+
+
+
+}
